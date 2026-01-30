@@ -5,8 +5,14 @@
       "type": "text",
       "text": "hellow",
       "createdAt": 1769773357546
+    },
+    "run": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774014338_ixnnaci.jpg?token=BQNXMVUZWHNCF4J5X6JAUQLJPSN7Y",
+      "mimetype": "image/jpeg",
+      "createdAt": 1769774015841
     }
   },
-  "updated": 1769773358294,
-  "totalReplies": 1
+  "updated": 1769774016134,
+  "totalReplies": 2
 }
