@@ -2,9 +2,10 @@
   "bot": "+94717775628",
   "replies": {
     "hi": {
-      "type": "text",
-      "text": "hellow",
-      "createdAt": 1769773357546
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774357280_xikc2p.ogg?token=BQNXMVSG4H3XXGY6J5CHCALJPSOVE",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1769774358293
     },
     "run": {
       "type": "image",
@@ -13,6 +14,6 @@
       "createdAt": 1769774015841
     }
   },
-  "updated": 1769774016134,
+  "updated": 1769774358676,
   "totalReplies": 2
 }
