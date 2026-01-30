@@ -14,9 +14,16 @@
       "text": "",
       "mimetype": "audio/ogg; codecs=opus",
       "createdAt": 1769806285220
+    },
+    "oy": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769806296447_x77wx4.ogg",
+      "text": "",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1769806296964
     }
   },
   "createdAt": 1769806178115,
-  "updated": 1769806285271,
-  "totalReplies": 2
+  "updated": 1769806297021,
+  "totalReplies": 3
 }
