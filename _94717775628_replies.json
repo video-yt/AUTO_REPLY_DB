@@ -19,8 +19,15 @@
       "text": "",
       "mimetype": "audio/ogg; codecs=opus",
       "createdAt": 1769774497412
+    },
+    "mf": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774698078_3majo.webp?token=BQNXMVVT5GCSZXJ2GZ5AURTJPSPKQ",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1769774699732
     }
   },
-  "updated": 1769774497697,
-  "totalReplies": 3
+  "updated": 1769774700024,
+  "totalReplies": 4
 }
