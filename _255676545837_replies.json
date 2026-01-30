@@ -3,13 +3,13 @@
   "replies": {
     "hi": {
       "type": "audio",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769806223099_2bqe3r.ogg",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769806274714_hopmw.ogg",
       "text": "",
       "mimetype": "audio/ogg; codecs=opus",
-      "createdAt": 1769806223610
+      "createdAt": 1769806275183
     }
   },
   "createdAt": 1769806178115,
-  "updated": 1769806223714,
+  "updated": 1769806275287,
   "totalReplies": 1
 }
