@@ -10,9 +10,10 @@
     },
     "run": {
       "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774014338_ixnnaci.jpg?token=BQNXMVUZWHNCF4J5X6JAUQLJPSN7Y",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769804673867_0b9l2.jpg",
+      "text": "",
       "mimetype": "image/jpeg",
-      "createdAt": 1769774015841
+      "createdAt": 1769804674234
     },
     "manul": {
       "type": "audio",
@@ -30,6 +31,6 @@
     }
   },
   "createdAt": 1769787992601,
-  "updated": 1769787992601,
+  "updated": 1769804674283,
   "totalReplies": 4
 }
