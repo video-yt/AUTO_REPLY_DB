@@ -2,11 +2,11 @@
   "bot": "+255676545837",
   "replies": {
     "hi": {
-      "type": "audio",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769806274714_hopmw.ogg",
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769806370283_0ouk0k.webp",
       "text": "",
-      "mimetype": "audio/ogg; codecs=opus",
-      "createdAt": 1769806275183
+      "mimetype": "image/webp",
+      "createdAt": 1769806370861
     },
     "hello": {
       "type": "audio",
@@ -24,6 +24,6 @@
     }
   },
   "createdAt": 1769806178115,
-  "updated": 1769806297021,
+  "updated": 1769806370917,
   "totalReplies": 3
 }
