@@ -10,10 +10,10 @@
     },
     "run": {
       "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769804673867_0b9l2.jpg",
-      "text": "",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769804742232_1thdmi.jpg",
+      "text": "this is caption",
       "mimetype": "image/jpeg",
-      "createdAt": 1769804674234
+      "createdAt": 1769804742628
     },
     "manul": {
       "type": "audio",
@@ -31,6 +31,6 @@
     }
   },
   "createdAt": 1769787992601,
-  "updated": 1769804674283,
+  "updated": 1769804742680,
   "totalReplies": 4
 }
