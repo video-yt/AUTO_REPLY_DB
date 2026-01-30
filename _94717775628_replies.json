@@ -12,8 +12,15 @@
       "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774014338_ixnnaci.jpg?token=BQNXMVUZWHNCF4J5X6JAUQLJPSN7Y",
       "mimetype": "image/jpeg",
       "createdAt": 1769774015841
+    },
+    "manul": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769774496571_bipu9g.ogg?token=BQNXMVRT2HYOEW4YVN2MJDDJPSO52",
+      "text": "",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1769774497412
     }
   },
-  "updated": 1769774358676,
-  "totalReplies": 2
+  "updated": 1769774497697,
+  "totalReplies": 3
 }
