@@ -5,9 +5,14 @@
       "type": "text",
       "text": "Hello",
       "createdAt": 1769841990591
+    },
+    "sup": {
+      "type": "text",
+      "text": "Cool",
+      "createdAt": 1769842243173
     }
   },
   "createdAt": 1769812804228,
-  "updated": 1769841990651,
-  "totalReplies": 1
+  "updated": 1769842243232,
+  "totalReplies": 2
 }
