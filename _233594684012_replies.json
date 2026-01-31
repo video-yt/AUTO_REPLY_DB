@@ -10,9 +10,14 @@
       "type": "text",
       "text": "Cool",
       "createdAt": 1769842243173
+    },
+    "how are you": {
+      "type": "text",
+      "text": "Am fine",
+      "createdAt": 1769892129039
     }
   },
   "createdAt": 1769812804228,
-  "updated": 1769842243232,
-  "totalReplies": 2
+  "updated": 1769892129086,
+  "totalReplies": 3
 }
