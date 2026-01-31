@@ -1,5 +1,15 @@
 {
   "bot": "+94758775628",
-  "replies": {},
-  "createdAt": 1769789477891
+  "replies": {
+    "chenith": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769870868382_xe1cw8.ogg",
+      "text": "",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1769870868738
+    }
+  },
+  "createdAt": 1769789477891,
+  "updated": 1769870868788,
+  "totalReplies": 1
 }
