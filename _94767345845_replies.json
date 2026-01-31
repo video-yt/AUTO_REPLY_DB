@@ -12,9 +12,16 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1769884018270
+    },
+    "audio": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769884121385_xo397l.ogg",
+      "text": "",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1769884121801
     }
   },
   "createdAt": 1769883345554,
-  "updated": 1769884018321,
-  "totalReplies": 2
+  "updated": 1769884121855,
+  "totalReplies": 3
 }
