@@ -1,5 +1,13 @@
 {
   "bot": "+233594684012",
-  "replies": {},
-  "createdAt": 1769812804228
+  "replies": {
+    "hi": {
+      "type": "text",
+      "text": "Hello",
+      "createdAt": 1769841990591
+    }
+  },
+  "createdAt": 1769812804228,
+  "updated": 1769841990651,
+  "totalReplies": 1
 }
