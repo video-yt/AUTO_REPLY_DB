@@ -5,9 +5,16 @@
       "type": "text",
       "text": "hello",
       "createdAt": 1769883901163
+    },
+    "sticker": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769884017888_bnq1r.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1769884018270
     }
   },
   "createdAt": 1769883345554,
-  "updated": 1769883901209,
-  "totalReplies": 1
+  "updated": 1769884018321,
+  "totalReplies": 2
 }
