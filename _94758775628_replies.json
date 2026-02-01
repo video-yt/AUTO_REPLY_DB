@@ -12,9 +12,16 @@
       "type": "text",
       "text": "👋",
       "createdAt": 1769914176265
+    },
+    "halu": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769914205271_hnvh72.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1769914205637
     }
   },
   "createdAt": 1769789477891,
-  "updated": 1769914176302,
-  "totalReplies": 2
+  "updated": 1769914205684,
+  "totalReplies": 3
 }
