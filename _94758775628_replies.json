@@ -19,9 +19,16 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1769914205637
+    },
+    "xpro": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769914251736_i0njwf.jpg",
+      "text": "I am xproverce mini",
+      "mimetype": "image/jpeg",
+      "createdAt": 1769914252050
     }
   },
   "createdAt": 1769789477891,
-  "updated": 1769914205684,
-  "totalReplies": 3
+  "updated": 1769914252095,
+  "totalReplies": 4
 }
