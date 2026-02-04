@@ -1,5 +1,15 @@
 {
   "bot": "+27849714121",
-  "replies": {},
-  "createdAt": 1770241178110
+  "replies": {
+    "hi": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770242780325_y86dwq.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1770242781091
+    }
+  },
+  "createdAt": 1770241178110,
+  "updated": 1770242781225,
+  "totalReplies": 1
 }
