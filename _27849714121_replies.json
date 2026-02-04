@@ -14,9 +14,16 @@
       "text": "",
       "mimetype": "image/jpeg",
       "createdAt": 1770242915759
+    },
+    "how are u": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770243038838_ss8xhd.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1770243039704
     }
   },
   "createdAt": 1770241178110,
-  "updated": 1770242915896,
-  "totalReplies": 2
+  "updated": 1770243039841,
+  "totalReplies": 3
 }
