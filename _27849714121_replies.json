@@ -7,9 +7,16 @@
       "text": "",
       "mimetype": "image/jpeg",
       "createdAt": 1770242781091
+    },
+    "image car": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770242914665_x18g95.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1770242915759
     }
   },
   "createdAt": 1770241178110,
-  "updated": 1770242781225,
-  "totalReplies": 1
+  "updated": 1770242915896,
+  "totalReplies": 2
 }
