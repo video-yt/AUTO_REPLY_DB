@@ -15,13 +15,13 @@
     },
     "how are u": {
       "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770243038838_ss8xhd.jpg",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770243092703_7b5r5p.jpg",
       "text": "",
       "mimetype": "image/jpeg",
-      "createdAt": 1770243039704
+      "createdAt": 1770243093380
     }
   },
   "createdAt": 1770241178110,
-  "updated": 1770243067445,
+  "updated": 1770243093493,
   "totalReplies": 3
 }
