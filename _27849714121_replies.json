@@ -2,11 +2,9 @@
   "bot": "+27849714121",
   "replies": {
     "hi": {
-      "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1770242780325_y86dwq.jpg",
-      "text": "",
-      "mimetype": "image/jpeg",
-      "createdAt": 1770242781091
+      "type": "text",
+      "text": "how are u",
+      "createdAt": 1770243067161
     },
     "image car": {
       "type": "image",
@@ -24,6 +22,6 @@
     }
   },
   "createdAt": 1770241178110,
-  "updated": 1770243039841,
+  "updated": 1770243067445,
   "totalReplies": 3
 }
