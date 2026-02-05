@@ -3,8 +3,8 @@
   "replies": {
     "hi": {
       "type": "text",
-      "text": "hello",
-      "createdAt": 1770293325328
+      "text": "Hello Wlcome to our community",
+      "createdAt": 1770293760471
     },
     "welcome": {
       "type": "text",
@@ -13,6 +13,6 @@
     }
   },
   "createdAt": 1770278585745,
-  "updated": 1770293478034,
+  "updated": 1770293760750,
   "totalReplies": 2
 }
