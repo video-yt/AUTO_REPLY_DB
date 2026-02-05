@@ -5,9 +5,14 @@
       "type": "text",
       "text": "HelloWorld08",
       "createdAt": 1770210308620
+    },
+    "heyy": {
+      "type": "text",
+      "text": "heyy hoffe dir gehts gut nur so bin offline das ist automatisch",
+      "createdAt": 1770326865226
     }
   },
   "createdAt": 1770210280195,
-  "updated": 1770210308905,
-  "totalReplies": 1
+  "updated": 1770326865583,
+  "totalReplies": 2
 }
