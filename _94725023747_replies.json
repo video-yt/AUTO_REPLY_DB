@@ -5,9 +5,14 @@
       "type": "text",
       "text": "hello",
       "createdAt": 1770371853447
+    },
+    "agraze": {
+      "type": "text",
+      "text": "Welcome to Agraze Solutions 👋 We design websites, boost brands, and grow businesses with result-driven digital marketing. Let’s build your online presence the right way.",
+      "createdAt": 1770468619585
     }
   },
   "createdAt": 1770371085296,
-  "updated": 1770371853710,
-  "totalReplies": 1
+  "updated": 1770468619690,
+  "totalReplies": 2
 }
