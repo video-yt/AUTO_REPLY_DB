@@ -3,11 +3,11 @@
   "replies": {
     "hi": {
       "type": "text",
-      "text": "hello",
-      "createdAt": 1770530081415
+      "text": "hello hi too",
+      "createdAt": 1770530180296
     }
   },
   "createdAt": 1770530059555,
-  "updated": 1770530081705,
+  "updated": 1770530180550,
   "totalReplies": 1
 }
