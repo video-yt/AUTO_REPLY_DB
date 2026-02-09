@@ -1,48 +1,5 @@
 {
   "bot": "+94763496652",
-  "replies": {
-    "hi": {
-      "type": "text",
-      "text": "Hi 👋",
-      "createdAt": 1770306707382
-    },
-    "gm": {
-      "type": "text",
-      "text": "Good Morning 🌄",
-      "createdAt": 1770306767514
-    },
-    "gn": {
-      "type": "text",
-      "text": "Good Night 😴",
-      "createdAt": 1770306831665
-    },
-    "mk": {
-      "type": "text",
-      "text": "Mukuth na 😇",
-      "createdAt": 1770306871485
-    },
-    "good night": {
-      "type": "text",
-      "text": "Good Night 😴",
-      "createdAt": 1770307221329
-    },
-    "good morning": {
-      "type": "text",
-      "text": "Good morning 🌄",
-      "createdAt": 1770307265321
-    },
-    "mukuth na": {
-      "type": "text",
-      "text": "Hm",
-      "createdAt": 1770307332302
-    },
-    "huththo": {
-      "type": "text",
-      "text": "Ayi huththo",
-      "createdAt": 1770399575953
-    }
-  },
-  "createdAt": 1770200856789,
-  "updated": 1770399576014,
-  "totalReplies": 8
+  "replies": {},
+  "createdAt": 1770650000517
 }
