@@ -1,18 +1,5 @@
 {
   "bot": "+263783793483",
-  "replies": {
-    "hi": {
-      "type": "text",
-      "text": "hello",
-      "createdAt": 1769803915871
-    },
-    "addreply hi": {
-      "type": "text",
-      "text": "wassup",
-      "createdAt": 1769953554774
-    }
-  },
-  "createdAt": 1769803480832,
-  "updated": 1769953554821,
-  "totalReplies": 2
+  "replies": {},
+  "createdAt": 1770625793148
 }
