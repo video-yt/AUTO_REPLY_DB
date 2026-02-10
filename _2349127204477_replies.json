@@ -10,9 +10,14 @@
       "type": "text",
       "text": "images",
       "createdAt": 1770752161279
+    },
+    "dog": {
+      "type": "text",
+      "text": "video",
+      "createdAt": 1770752192914
     }
   },
   "createdAt": 1770650018337,
-  "updated": 1770752161366,
-  "totalReplies": 2
+  "updated": 1770752192977,
+  "totalReplies": 3
 }
