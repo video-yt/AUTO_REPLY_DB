@@ -5,9 +5,14 @@
       "type": "text",
       "text": "hello",
       "createdAt": 1770752132426
+    },
+    "cat": {
+      "type": "text",
+      "text": "images",
+      "createdAt": 1770752161279
     }
   },
   "createdAt": 1770650018337,
-  "updated": 1770752132483,
-  "totalReplies": 1
+  "updated": 1770752161366,
+  "totalReplies": 2
 }
