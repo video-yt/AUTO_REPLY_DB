@@ -3,8 +3,8 @@
   "replies": {
     "hey": {
       "type": "text",
-      "text": "how you doing",
-      "createdAt": 1771022686158
+      "text": "hi",
+      "createdAt": 1771023227686
     },
     ".menu": {
       "type": "text",
@@ -13,6 +13,6 @@
     }
   },
   "createdAt": 1771022623231,
-  "updated": 1771022889878,
+  "updated": 1771023227738,
   "totalReplies": 2
 }
