@@ -4,7 +4,7 @@
     "hey": {
       "type": "text",
       "text": "hi",
-      "createdAt": 1771023227686
+      "createdAt": 1771023391631
     },
     ".menu": {
       "type": "text",
@@ -13,6 +13,6 @@
     }
   },
   "createdAt": 1771022623231,
-  "updated": 1771023227738,
+  "updated": 1771023391688,
   "totalReplies": 2
 }
