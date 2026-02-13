@@ -20,9 +20,14 @@
       "type": "text",
       "text": "nyt",
       "createdAt": 1771013104994
+    },
+    "addreply nyt": {
+      "type": "text",
+      "text": "😘",
+      "createdAt": 1771013138365
     }
   },
   "createdAt": 1770636503533,
-  "updated": 1771013105049,
-  "totalReplies": 4
+  "updated": 1771013138418,
+  "totalReplies": 5
 }
