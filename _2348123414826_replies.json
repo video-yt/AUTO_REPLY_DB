@@ -5,9 +5,14 @@
       "type": "text",
       "text": "byr",
       "createdAt": 1771453254000
+    },
+    "hello": {
+      "type": "text",
+      "text": "wassup",
+      "createdAt": 1771453296923
     }
   },
   "createdAt": 1771268154148,
-  "updated": 1771453256694,
-  "totalReplies": 1
+  "updated": 1771453299024,
+  "totalReplies": 2
 }
