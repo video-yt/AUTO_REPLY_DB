@@ -1,34 +1,5 @@
 {
   "bot": "+94758775628",
-  "replies": {
-    "chenith": {
-      "type": "audio",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769870868382_xe1cw8.ogg",
-      "text": "",
-      "mimetype": "audio/ogg; codecs=opus",
-      "createdAt": 1769870868738
-    },
-    "hi": {
-      "type": "text",
-      "text": "👋",
-      "createdAt": 1769914176265
-    },
-    "halu": {
-      "type": "sticker",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769914205271_hnvh72.webp",
-      "text": "",
-      "mimetype": "image/webp",
-      "createdAt": 1769914205637
-    },
-    "xpro": {
-      "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1769914251736_i0njwf.jpg",
-      "text": "I am xproverce mini",
-      "mimetype": "image/jpeg",
-      "createdAt": 1769914252050
-    }
-  },
-  "createdAt": 1769789477891,
-  "updated": 1769914252095,
-  "totalReplies": 4
+  "replies": {},
+  "createdAt": 1772117778909
 }
