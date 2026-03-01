@@ -7,9 +7,14 @@
       "text": "",
       "mimetype": "video/mp4",
       "createdAt": 1772331694122
+    },
+    "😅": {
+      "type": "text",
+      "text": "😅",
+      "createdAt": 1772332173504
     }
   },
   "createdAt": 1772331002556,
-  "updated": 1772331694131,
-  "totalReplies": 1
+  "updated": 1772332173657,
+  "totalReplies": 2
 }
