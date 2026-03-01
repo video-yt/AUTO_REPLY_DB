@@ -12,9 +12,16 @@
       "type": "text",
       "text": "😅",
       "createdAt": 1772332173504
+    },
+    "hi": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1772332807181_t4aa97.bin",
+      "text": "",
+      "mimetype": "audio/mp4",
+      "createdAt": 1772332807708
     }
   },
   "createdAt": 1772331002556,
-  "updated": 1772332173657,
-  "totalReplies": 2
+  "updated": 1772332807832,
+  "totalReplies": 3
 }
