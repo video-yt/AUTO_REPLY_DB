@@ -1,5 +1,13 @@
 {
   "bot": "+923244801573",
-  "replies": {},
-  "createdAt": 1772855876873
+  "replies": {
+    "aoa": {
+      "type": "text",
+      "text": "W.salam Who is there",
+      "createdAt": 1772885528424
+    }
+  },
+  "createdAt": 1772855876873,
+  "updated": 1772885530629,
+  "totalReplies": 1
 }
