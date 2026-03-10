@@ -7,9 +7,16 @@
       "text": "",
       "mimetype": "image/jpeg",
       "createdAt": 1773129749440
+    },
+    "hello,this user has received your message and he will be with you shortly": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1773129836145_t2exf.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1773129836807
     }
   },
   "createdAt": 1773129135326,
-  "updated": 1773129749449,
-  "totalReplies": 1
+  "updated": 1773129836931,
+  "totalReplies": 2
 }
