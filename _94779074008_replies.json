@@ -1,5 +1,13 @@
 {
   "bot": "+94779074008",
-  "replies": {},
-  "createdAt": 1773400669579
+  "replies": {
+    "mk": {
+      "type": "text",
+      "text": "MOK [Audio] https://image2url.com/r2/default/audio/1773401083884-b62d2706-2b53-49cf-8a97-8ffa58e2f3fe.mp3",
+      "createdAt": 1773401286494
+    }
+  },
+  "createdAt": 1773400669579,
+  "updated": 1773401286823,
+  "totalReplies": 1
 }
