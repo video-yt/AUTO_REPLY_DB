@@ -7,9 +7,16 @@
       "text": "Audio",
       "mimetype": "audio/mpeg",
       "createdAt": 1773402992176
+    },
+    "audio": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1773403047370_88679e6.mp3",
+      "text": "",
+      "mimetype": "audio/mpeg",
+      "createdAt": 1773403048194
     }
   },
   "createdAt": 1773400669579,
-  "updated": 1773402992531,
-  "totalReplies": 1
+  "updated": 1773403048378,
+  "totalReplies": 2
 }
