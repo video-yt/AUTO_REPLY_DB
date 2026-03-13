@@ -2,12 +2,14 @@
   "bot": "+94779074008",
   "replies": {
     "mk": {
-      "type": "text",
-      "text": "MOK [Audio] https://image2url.com/r2/default/audio/1773401083884-b62d2706-2b53-49cf-8a97-8ffa58e2f3fe.mp3",
-      "createdAt": 1773401286494
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1773402991414_j66pma.mp3",
+      "text": "Audio",
+      "mimetype": "audio/mpeg",
+      "createdAt": 1773402992176
     }
   },
   "createdAt": 1773400669579,
-  "updated": 1773401286823,
+  "updated": 1773402992531,
   "totalReplies": 1
 }
