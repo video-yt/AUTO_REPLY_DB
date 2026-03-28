@@ -7,9 +7,16 @@
       "text": "",
       "mimetype": "image/jpeg",
       "createdAt": 1774716141972
+    },
+    "hi": {
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774716200311_6uqut.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1774716201152
     }
   },
   "createdAt": 1774715110547,
-  "updated": 1774716142187,
-  "totalReplies": 1
+  "updated": 1774716201226,
+  "totalReplies": 2
 }
