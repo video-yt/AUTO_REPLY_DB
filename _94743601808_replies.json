@@ -9,9 +9,11 @@
       "createdAt": 1774717654317
     },
     "hi": {
-      "type": "text",
-      "text": "Text",
-      "createdAt": 1774717952446
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774718198237_rtk2o.jpg",
+      "text": "hi",
+      "mimetype": "image/jpeg",
+      "createdAt": 1774718198873
     },
     "addreply hi": {
       "type": "image",
@@ -22,6 +24,6 @@
     }
   },
   "createdAt": 1774715110547,
-  "updated": 1774717952528,
+  "updated": 1774718198931,
   "totalReplies": 3
 }
