@@ -16,12 +16,14 @@
       "createdAt": 1774716201152
     },
     "addreply hi": {
-      "type": "text",
-      "text": "Mk",
-      "createdAt": 1774717107837
+      "type": "image",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774717706926_63sm1k7.jpg",
+      "text": "",
+      "mimetype": "image/jpeg",
+      "createdAt": 1774717707339
     }
   },
   "createdAt": 1774715110547,
-  "updated": 1774717654384,
+  "updated": 1774717707401,
   "totalReplies": 3
 }
