@@ -10,10 +10,10 @@
     },
     "hi": {
       "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774716200311_6uqut.jpg",
-      "text": "",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774717878937_dmy593.jpg",
+      "text": "image",
       "mimetype": "image/jpeg",
-      "createdAt": 1774716201152
+      "createdAt": 1774717879297
     },
     "addreply hi": {
       "type": "image",
@@ -24,6 +24,6 @@
     }
   },
   "createdAt": 1774715110547,
-  "updated": 1774717707401,
+  "updated": 1774717879370,
   "totalReplies": 3
 }
