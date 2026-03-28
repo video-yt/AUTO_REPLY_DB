@@ -9,11 +9,9 @@
       "createdAt": 1774717654317
     },
     "hi": {
-      "type": "image",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1774717878937_dmy593.jpg",
-      "text": "image",
-      "mimetype": "image/jpeg",
-      "createdAt": 1774717879297
+      "type": "text",
+      "text": "Text",
+      "createdAt": 1774717952446
     },
     "addreply hi": {
       "type": "image",
@@ -24,6 +22,6 @@
     }
   },
   "createdAt": 1774715110547,
-  "updated": 1774717879370,
+  "updated": 1774717952528,
   "totalReplies": 3
 }
