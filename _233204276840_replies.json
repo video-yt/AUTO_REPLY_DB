@@ -10,9 +10,14 @@
       "type": "text",
       "text": "Cool ur syd",
       "createdAt": 1774780704409
+    },
+    "hello": {
+      "type": "text",
+      "text": "sup",
+      "createdAt": 1774780725656
     }
   },
   "createdAt": 1774780415225,
-  "updated": 1774780704481,
-  "totalReplies": 2
+  "updated": 1774780725710,
+  "totalReplies": 3
 }
