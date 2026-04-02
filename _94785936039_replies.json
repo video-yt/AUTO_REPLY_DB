@@ -1,13 +1,5 @@
 {
   "bot": "+94785936039",
-  "replies": {
-    "hi": {
-      "type": "text",
-      "text": "admin offilne",
-      "createdAt": 1773841921331
-    }
-  },
-  "createdAt": 1772982292120,
-  "updated": 1773841921503,
-  "totalReplies": 1
+  "replies": {},
+  "createdAt": 1775151734629
 }
