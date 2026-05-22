@@ -3,8 +3,8 @@
   "replies": {
     "hi": {
       "type": "text",
-      "text": "Hi my dear what's up 💫",
-      "createdAt": 1779413175468
+      "text": "Hi my dear ! What's up 💫❤️",
+      "createdAt": 1779413312791
     },
     "sticker": {
       "type": "sticker",
@@ -22,6 +22,6 @@
     }
   },
   "createdAt": 1769883345554,
-  "updated": 1779413175553,
+  "updated": 1779413312847,
   "totalReplies": 3
 }
