@@ -1,5 +1,18 @@
 {
   "bot": "+27744302682",
-  "replies": {},
-  "createdAt": 1779424506945
+  "replies": {
+    "hello": {
+      "type": "text",
+      "text": "Hey",
+      "createdAt": 1779424517457
+    },
+    "fuck": {
+      "type": "text",
+      "text": "you too",
+      "createdAt": 1779424530155
+    }
+  },
+  "createdAt": 1779424506945,
+  "updated": 1779424530215,
+  "totalReplies": 2
 }
