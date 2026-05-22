@@ -3,8 +3,8 @@
   "replies": {
     "hello": {
       "type": "text",
-      "text": "Hey",
-      "createdAt": 1779424517457
+      "text": "how are you",
+      "createdAt": 1779424563092
     },
     "fuck": {
       "type": "text",
@@ -18,6 +18,6 @@
     }
   },
   "createdAt": 1779424506945,
-  "updated": 1779424550934,
+  "updated": 1779424563163,
   "totalReplies": 3
 }
