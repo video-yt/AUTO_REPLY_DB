@@ -28,9 +28,14 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1769774699732
+    },
+    "fuck": {
+      "type": "text",
+      "text": "you too",
+      "createdAt": 1779412995968
     }
   },
   "createdAt": 1769787992601,
-  "updated": 1769804742680,
-  "totalReplies": 4
+  "updated": 1779412996063,
+  "totalReplies": 5
 }
