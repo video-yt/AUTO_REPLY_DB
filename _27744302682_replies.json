@@ -40,9 +40,14 @@
       "type": "text",
       "text": "fuck you too",
       "createdAt": 1779597078056
+    },
+    "hi": {
+      "type": "text",
+      "text": "hello",
+      "createdAt": 1779597095451
     }
   },
   "createdAt": 1779424506945,
-  "updated": 1779597078126,
-  "totalReplies": 8
+  "updated": 1779597095464,
+  "totalReplies": 9
 }
