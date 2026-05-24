@@ -35,9 +35,14 @@
       "type": "text",
       "text": "puk you too",
       "createdAt": 1779597039063
+    },
+    "fuck you": {
+      "type": "text",
+      "text": "fuck you too",
+      "createdAt": 1779597078056
     }
   },
   "createdAt": 1779424506945,
-  "updated": 1779597039112,
-  "totalReplies": 7
+  "updated": 1779597078126,
+  "totalReplies": 8
 }
