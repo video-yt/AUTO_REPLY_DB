@@ -44,7 +44,7 @@
     "hi": {
       "type": "text",
       "text": "hello",
-      "createdAt": 1779597095451
+      "createdAt": 1779597144343
     },
     "how are you": {
       "type": "text",
@@ -53,6 +53,6 @@
     }
   },
   "createdAt": 1779424506945,
-  "updated": 1779597106698,
+  "updated": 1779597144416,
   "totalReplies": 10
 }
