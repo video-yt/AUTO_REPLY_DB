@@ -3,18 +3,18 @@
   "replies": {
     "sticker": {
       "type": "sticker",
-      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1780129214524_9a8lkg.webp",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1780129690668_mz75db.webp",
       "text": "",
       "mimetype": "image/webp",
-      "createdAt": 1780129215508
+      "createdAt": 1780129691486
     },
     "hi": {
       "type": "text",
       "text": "Hello",
-      "createdAt": 1780129689175
+      "createdAt": 1780129720249
     }
   },
   "createdAt": 1780129183465,
-  "updated": 1780129689473,
+  "updated": 1780129720390,
   "totalReplies": 2
 }
