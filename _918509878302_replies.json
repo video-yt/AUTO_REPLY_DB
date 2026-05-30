@@ -7,9 +7,14 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1780129215508
+    },
+    "hi": {
+      "type": "text",
+      "text": "Hello",
+      "createdAt": 1780129689175
     }
   },
   "createdAt": 1780129183465,
-  "updated": 1780129215640,
-  "totalReplies": 1
+  "updated": 1780129689473,
+  "totalReplies": 2
 }
