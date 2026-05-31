@@ -7,9 +7,16 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1780222887645
+    },
+    "تمام": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1780222913111_dt184.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1780222914140
     }
   },
-  "createdAt": 1780222887770,
-  "updated": 1780222887770,
-  "totalReplies": 1
+  "createdAt": 1780222848794,
+  "updated": 1780222914230,
+  "totalReplies": 2
 }
