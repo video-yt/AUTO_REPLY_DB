@@ -1,5 +1,13 @@
 {
   "bot": "+94721853847",
-  "replies": {},
-  "createdAt": 1780511024264
+  "replies": {
+    "hi": {
+      "type": "text",
+      "text": "https://i.ibb.co/RTf7CnfY/Rashmika-Ofc.png",
+      "createdAt": 1780511073671
+    }
+  },
+  "createdAt": 1780511024264,
+  "updated": 1780511073749,
+  "totalReplies": 1
 }
