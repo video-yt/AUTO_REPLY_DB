@@ -1,5 +1,15 @@
 {
   "bot": "+94767504724",
-  "replies": {},
-  "createdAt": 1780658710416
+  "replies": {
+    "hi": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1780658769835_ccwyz.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1780658771079
+    }
+  },
+  "createdAt": 1780658710416,
+  "updated": 1780658771204,
+  "totalReplies": 1
 }
