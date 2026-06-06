@@ -8,11 +8,11 @@
     },
     "hello": {
       "type": "text",
-      "text": "hi how are you",
-      "createdAt": 1780777384300
+      "text": "Hi, how are you? 😊",
+      "createdAt": 1780777463624
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777384368,
+  "updated": 1780777463695,
   "totalReplies": 2
 }
