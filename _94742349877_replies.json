@@ -1,5 +1,15 @@
 {
   "bot": "+94742349877",
-  "replies": {},
-  "createdAt": 1780657540091
+  "replies": {
+    "audio": {
+      "type": "audio",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1780751510382_vpc9cr.ogg",
+      "text": "",
+      "mimetype": "audio/ogg; codecs=opus",
+      "createdAt": 1780751510871
+    }
+  },
+  "createdAt": 1780657540091,
+  "updated": 1780751510933,
+  "totalReplies": 1
 }
