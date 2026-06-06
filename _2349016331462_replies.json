@@ -40,9 +40,14 @@
       "type": "text",
       "text": "This group is amazing 🎉",
       "createdAt": 1780777546829
+    },
+    "food": {
+      "type": "text",
+      "text": "What's your favorite food? 🍕",
+      "createdAt": 1780777556802
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777546848,
-  "totalReplies": 8
+  "updated": 1780777556815,
+  "totalReplies": 9
 }
