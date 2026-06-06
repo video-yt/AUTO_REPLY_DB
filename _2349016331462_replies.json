@@ -3,8 +3,8 @@
   "replies": {
     "hi": {
       "type": "text",
-      "text": "Hello! 👋 #addreply hello&Hi, how are you? 😊 #addreply hey&Hey there! 😎 #addreply good morning&Good morning everyone! ☀️ #addreply good night&Sweet dreams! 🌙 #addreply bye&Goodbye! 👋 #addreply thanks&You're welcome! ❤️ #addreply thank you&No problem! 😊 #addreply bot&Yes, I'm here! 🤖 #addreply ping&Pong! 🏓 #addreply owner&Please contact the owner. #addreply help&Type #help for commands. #addreply ff&BOOYAH! 🔥 #addreply free fire&Who's ready for a match? 🎮 #addreply cod&Lock and load! 🎯 #addreply game&What's your favorite game? #addreply anime&Anime is life! 🔥 #addreply naruto&Believe it! 🍥 #addreply one piece&The One Piece is real! ☠️ #addreply joke&Why did the phone wear glasses? It lost its contacts! 😂 #addreply lol&😂😂😂 #addreply haha&Glad you're laughing! 😄 #addreply love&Spread love everywhere ❤️ #addreply sad&Better days are coming 🙏 #addreply school&Study hard and stay focused 📚 #addreply exam&Good luck on your exams",
-      "createdAt": 1780777335062
+      "text": "hello wassup",
+      "createdAt": 1780777691062
     },
     "hello": {
       "type": "text",
@@ -53,6 +53,6 @@
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777594477,
+  "updated": 1780777691126,
   "totalReplies": 10
 }
