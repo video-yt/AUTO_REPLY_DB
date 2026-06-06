@@ -20,9 +20,14 @@
       "type": "text",
       "text": "Good morning everyone! ☀️",
       "createdAt": 1780777485877
+    },
+    "bye": {
+      "type": "text",
+      "text": "Goodbye! 👋",
+      "createdAt": 1780777499474
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777485891,
-  "totalReplies": 4
+  "updated": 1780777499485,
+  "totalReplies": 5
 }
