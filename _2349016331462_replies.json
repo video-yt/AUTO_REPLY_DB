@@ -8,8 +8,8 @@
     },
     "hello": {
       "type": "text",
-      "text": "Hi, how are you? 😊",
-      "createdAt": 1780777463624
+      "text": "wassup",
+      "createdAt": 1780778867526
     },
     "hey": {
       "type": "text",
@@ -53,6 +53,6 @@
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777691126,
+  "updated": 1780778867531,
   "totalReplies": 10
 }
