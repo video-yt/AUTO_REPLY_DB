@@ -10,9 +10,14 @@
       "type": "text",
       "text": "Hi, how are you? 😊",
       "createdAt": 1780777463624
+    },
+    "hey": {
+      "type": "text",
+      "text": "Hey there! 😎",
+      "createdAt": 1780777473688
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777463695,
-  "totalReplies": 2
+  "updated": 1780777473773,
+  "totalReplies": 3
 }
