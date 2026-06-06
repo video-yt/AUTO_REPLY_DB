@@ -35,9 +35,14 @@
       "type": "text",
       "text": "You're welcome! ❤️",
       "createdAt": 1780777532612
+    },
+    "group": {
+      "type": "text",
+      "text": "This group is amazing 🎉",
+      "createdAt": 1780777546829
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777532628,
-  "totalReplies": 7
+  "updated": 1780777546848,
+  "totalReplies": 8
 }
