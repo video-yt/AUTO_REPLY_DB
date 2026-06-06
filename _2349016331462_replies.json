@@ -25,9 +25,19 @@
       "type": "text",
       "text": "Goodbye! 👋",
       "createdAt": 1780777499474
+    },
+    "good night": {
+      "type": "text",
+      "text": "Sweet dreams! 🌙",
+      "createdAt": 1780777506681
+    },
+    "thanks": {
+      "type": "text",
+      "text": "You're welcome! ❤️",
+      "createdAt": 1780777532612
     }
   },
   "createdAt": 1780775568362,
-  "updated": 1780777499485,
-  "totalReplies": 5
+  "updated": 1780777532628,
+  "totalReplies": 7
 }
