@@ -1,5 +1,13 @@
 {
   "bot": "+255786630865",
-  "replies": {},
-  "createdAt": 1780849548348
+  "replies": {
+    "mambo": {
+      "type": "text",
+      "text": "Poa niaje",
+      "createdAt": 1780897719279
+    }
+  },
+  "createdAt": 1780849548348,
+  "updated": 1780897719359,
+  "totalReplies": 1
 }
