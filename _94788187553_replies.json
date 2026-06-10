@@ -1,5 +1,13 @@
 {
   "bot": "+94788187553",
-  "replies": {},
-  "createdAt": 1781086101459
+  "replies": {
+    "mk": {
+      "type": "text",
+      "text": "ai moko",
+      "createdAt": 1781087261734
+    }
+  },
+  "createdAt": 1781086101459,
+  "updated": 1781087263765,
+  "totalReplies": 1
 }
