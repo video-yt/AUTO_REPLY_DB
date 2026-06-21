@@ -8,11 +8,11 @@
     },
     "salom": {
       "type": "text",
-      "text": "Assalomu alaykum, qanday yordam kerak? .addreply narx&Narxlar haqida yozib yuboring .addreply buyurtma&Buyurtma uchun ism va mahsulot nomini yuboring .addreply manzil&Bizning manzil: Dushanbe .addreply vaqt&Ish vaqti: 09:00 - 18:00",
-      "createdAt": 1782080376789
+      "text": "valaykum asalom",
+      "createdAt": 1782080463633
     }
   },
   "createdAt": 1782075062848,
-  "updated": 1782080376802,
+  "updated": 1782080463688,
   "totalReplies": 2
 }
