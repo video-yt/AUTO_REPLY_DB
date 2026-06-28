@@ -30,9 +30,14 @@
       "type": "text",
       "text": "im doing good",
       "createdAt": 1782666923768
+    },
+    "wtf": {
+      "type": "text",
+      "text": "Magic bro magic",
+      "createdAt": 1782666943528
     }
   },
   "createdAt": 1782666269328,
-  "updated": 1782666923835,
-  "totalReplies": 6
+  "updated": 1782666943621,
+  "totalReplies": 7
 }
