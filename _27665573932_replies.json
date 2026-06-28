@@ -20,9 +20,14 @@
       "type": "text",
       "text": "Nkavangaheti my gee",
       "createdAt": 1782666760115
+    },
+    "good and you": {
+      "type": "text",
+      "text": "Im also good",
+      "createdAt": 1782666901945
     }
   },
   "createdAt": 1782666269328,
-  "updated": 1782666760130,
-  "totalReplies": 4
+  "updated": 1782666902034,
+  "totalReplies": 5
 }
