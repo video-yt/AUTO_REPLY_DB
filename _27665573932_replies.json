@@ -50,9 +50,14 @@
       "type": "text",
       "text": "hustling and you",
       "createdAt": 1782667592758
+    },
+    "retarded": {
+      "type": "text",
+      "text": "fuck you 😒",
+      "createdAt": 1782667628799
     }
   },
   "createdAt": 1782666269328,
-  "updated": 1782667592816,
-  "totalReplies": 10
+  "updated": 1782667628859,
+  "totalReplies": 11
 }
