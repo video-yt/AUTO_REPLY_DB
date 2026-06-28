@@ -35,9 +35,14 @@
       "type": "text",
       "text": "Magic bro magic",
       "createdAt": 1782666943528
+    },
+    "😂": {
+      "type": "text",
+      "text": "its funny bro",
+      "createdAt": 1782667235289
     }
   },
   "createdAt": 1782666269328,
-  "updated": 1782666943621,
-  "totalReplies": 7
+  "updated": 1782667235383,
+  "totalReplies": 8
 }
