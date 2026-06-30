@@ -2,9 +2,11 @@
   "bot": "+94726971348",
   "replies": {
     "mk": {
-      "type": "text",
-      "text": "Mn",
-      "createdAt": 1782826549933
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1782826691788_vxyp2y.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1782826692472
     },
     "mn": {
       "type": "text",
@@ -13,6 +15,6 @@
     }
   },
   "createdAt": 1782825711930,
-  "updated": 1782826589633,
+  "updated": 1782826692587,
   "totalReplies": 2
 }
