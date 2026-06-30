@@ -1,23 +1,5 @@
 {
   "bot": "+2347032267786",
-  "replies": {
-    "cool dude cat": {
-      "type": "text",
-      "text": "[ sukuna]",
-      "createdAt": 1779980893916
-    },
-    "sup": {
-      "type": "text",
-      "text": "[how are you doing]",
-      "createdAt": 1779980940496
-    },
-    "hey": {
-      "type": "text",
-      "text": "what r u doing",
-      "createdAt": 1779981009525
-    }
-  },
-  "createdAt": 1779740498511,
-  "updated": 1779981009876,
-  "totalReplies": 3
+  "replies": {},
+  "createdAt": 1782803919066
 }
