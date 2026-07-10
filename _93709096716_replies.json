@@ -35,9 +35,14 @@
       "type": "text",
       "text": "رحمت الله سعادت",
       "createdAt": 1783690663045
+    },
+    "څنګه يی؟": {
+      "type": "text",
+      "text": "الحمدالله شکر دی ته څنګه يي ؟",
+      "createdAt": 1783690770575
     }
   },
   "createdAt": 1783690285494,
-  "updated": 1783690732253,
-  "totalReplies": 7
+  "updated": 1783690770782,
+  "totalReplies": 8
 }
