@@ -1,5 +1,15 @@
 {
   "bot": "+923471358003",
-  "replies": {},
-  "createdAt": 1783441237237
+  "replies": {
+    "sticker": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1783959724702_tqe7is.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1783959725464
+    }
+  },
+  "createdAt": 1783441237237,
+  "updated": 1783959725862,
+  "totalReplies": 1
 }
