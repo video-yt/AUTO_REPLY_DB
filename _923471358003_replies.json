@@ -7,9 +7,16 @@
       "text": "",
       "mimetype": "image/webp",
       "createdAt": 1783959725464
+    },
+    "hi": {
+      "type": "sticker",
+      "mediaUrl": "https://raw.githubusercontent.com/video-yt/AUTO_REPLY_DB/main/media/1783959756239_aicftk.webp",
+      "text": "",
+      "mimetype": "image/webp",
+      "createdAt": 1783959756926
     }
   },
   "createdAt": 1783441237237,
-  "updated": 1783959725862,
-  "totalReplies": 1
+  "updated": 1783959757076,
+  "totalReplies": 2
 }
