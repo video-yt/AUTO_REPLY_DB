@@ -1,5 +1,13 @@
 {
   "bot": "+233599541584",
-  "replies": {},
-  "createdAt": 1784078911326
+  "replies": {
+    "hi, hey, chris, babe": {
+      "type": "text",
+      "text": "hey girl, hey there, sup",
+      "createdAt": 1784079967059
+    }
+  },
+  "createdAt": 1784078911326,
+  "updated": 1784079967221,
+  "totalReplies": 1
 }
