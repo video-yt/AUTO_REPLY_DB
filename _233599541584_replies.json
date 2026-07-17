@@ -10,9 +10,14 @@
       "type": "text",
       "text": "Yh sup",
       "createdAt": 1784322299683
+    },
+    "how are you, sup, wassup,": {
+      "type": "text",
+      "text": "cool,chilling with the hommies",
+      "createdAt": 1784324270480
     }
   },
   "createdAt": 1784078911326,
-  "updated": 1784322299784,
-  "totalReplies": 2
+  "updated": 1784324270555,
+  "totalReplies": 3
 }
